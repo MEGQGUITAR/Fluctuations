@@ -1,3 +1,3 @@
 # Fluctuations
-Metric Fluctuations on the reheating process.
+Fluctuations of the inflaton field on the reheating process with and without metric peturbations.
 ![Fluct](Fluctuations.png)
