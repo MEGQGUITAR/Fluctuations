@@ -1,2 +1,3 @@
 # Fluctuations
-Metric Fluctuations on the reheating process
+Metric Fluctuations on the reheating process.
+![Fluct](Fluctuations.png)
